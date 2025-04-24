@@ -113,7 +113,7 @@ def scrape_eon(driver):
         ))
         time.sleep(1)
         akzeptieren_button.click()
-        print("🍪 Cookie-Einwilligung akzeptiert.")
+        print(" Cookie-Einwilligung akzeptiert.")
         time.sleep(2)
     except Exception as e:
         print("ℹ Kein Cookie-Dialog gefunden oder klickbar:", e)

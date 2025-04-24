@@ -1,3 +1,5 @@
+import time
+import sys
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
@@ -11,10 +13,19 @@ from utils.pdf_handler import find_and_process_pdf
 from utils.html_gpt_analyzer import extract_prices_from_html_groq
 from utils.tarifrechner_scraper import extract_prices_from_tarifrechner
 from dotenv import load_dotenv
+from datetime import datetime
+
+# Argumente für Batching
+start = int(sys.argv[1]) if len(sys.argv) > 1 else 0
+end = int(sys.argv[2]) if len(sys.argv) > 2 else start + 90
+
+# Dynamischer Output
+timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+OUTPUT_PATH = f"gas/gaspreise_{timestamp}.csv"
 
 load_dotenv()
 CSV_PATH = "gas/gasversorger.csv"
-OUTPUT_PATH = "gas/gaspreise.csv"  
+  
 
 
 # CSV laden
@@ -25,9 +36,9 @@ df["Grundversorgungsseite"] = (
     .str.replace(r"[✅❌]", "", regex=True)
     .str.strip()
 )
-anbieter_liste = df.to_dict(orient="records")
+anbieter_liste = df.iloc[start:end].to_dict(orient="records")
 
-# Selenium vorbereiten
+# Browser vorbereiten
 options = webdriver.ChromeOptions()
 options.add_argument("--headless") 
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
@@ -108,24 +119,23 @@ for anbieter in anbieter_liste:
     except Exception as e:
         print(f"❌ Fehler bei {name}: {e}")
 
-   
+if not preise_gefunden:
+        print(f"❌ Keine Preise gefunden für {name} bei beiden URLs")        
 
+   
+# Browser schließen
 driver.quit()
 
 # Ergebnisse speichern
 df_out = pd.DataFrame(ergebnisse)
 
-# Einheitliche Reihenfolge festlegen
-gewünschte_reihenfolge = ["Anbieter", "Typ", "Wert", "Zeitraum", "kWh-Bereich"]
-
-# Fehlende Spalten auffüllen
+# Einheitliche Reihenfolge
+gewünschte_reihenfolge = ["Anbieter", "Typ", "Wert", "Zeitraum"]
 for spalte in gewünschte_reihenfolge:
     if spalte not in df_out.columns:
         df_out[spalte] = "Unbekannt"
 
-# Spaltenreihenfolge anwenden
-df_out = df_out[gewünschte_reihenfolge]
-
 # Speichern
+df_out = df_out[gewünschte_reihenfolge]
 df_out.to_csv(OUTPUT_PATH, index=False)
 print(f"\n📁 Export abgeschlossen: {OUTPUT_PATH}")

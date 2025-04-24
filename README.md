@@ -54,10 +54,11 @@ python strom_main.py 90 180
 python strom_main.py 180 270`
 
 Jeder Lauf erzeugt eine eigene Datei, z. B. strompreise_20240423_142512.csv.
-Zusammenführen aller Teil-Ergebnisse (Duplikate werden entfernt):  strom/python merge_batches.py
+Zusammenführen aller Teil-Ergebnisse (Duplikate werden entfernt):  python strom/merge_batches.py
 
 Das Skript durchsucht strom/strompreise_*.csv und erstellt eine zusammengeführte Datei strom/strompreise.csv
 ```
+Dies ist beim Gas 1:1 so zu übertragen!
 
 
 ## Verzeichnis `utils/`
@@ -88,7 +89,7 @@ Die Dateien `strompreise.csv` und `gaspreise.csv`  haben den folgenden Aufbau:
 
 ## Visualisierung
 
-- **`strompreise.py`** und **`gaspreise.py`**  dienen der optionalen Auswertung und Visualisierung der extrahierten Daten.
+- **`strompreise.py`** und **`gaspreise.py`**  sowie **`strompreise_vergleich.py`** und **`gaspreise_vergleich.py`**  dienen der optionalen Auswertung und Visualisierung der extrahierten Daten.
 - Nutzt `pandas` und `matplotlib`, um z. B. Anbieter nach Preisen zu sortieren oder Histogramme zu erstellen.
 
 ---

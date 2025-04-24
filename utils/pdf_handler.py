@@ -64,7 +64,7 @@ def find_and_process_pdf(driver, anbieter_name, base_url, typ="strom"):
                 with open(temp_pdf, "wb") as f:
                     f.write(r.content)
 
-                # ✅ Text aus PDF extrahieren
+                #  Text aus PDF extrahieren
                 with pdfplumber.open(temp_pdf) as pdf:
                     pdf_text = "\n\n".join(page.extract_text() or "" for page in pdf.pages)
 
