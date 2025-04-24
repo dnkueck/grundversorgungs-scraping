@@ -9,8 +9,6 @@ Süwag Vertrieb,Arbeitspreis,"39,50 ct/kWh",01.01.2025
 Süwag Vertrieb,Grundpreis,"143,84 €/Jahr",01.01.2025
 E.ON Belm,Arbeitspreis,"39,14 ct/kWh",04.02.2025
 E.ON Belm,Grundpreis,"198,97 €/Jahr",04.02.2025
-E.ON Übersee,Arbeitspreis,"42,04 ct/kWh",04.02.2025
-E.ON Übersee,Grundpreis,"245,44 €/Jahr",04.02.2025
 E.ON Moringen,Arbeitspreis,"34,21 ct/kWh",04.02.2025
 E.ON Moringen,Grundpreis,"162,17 €/Jahr",04.02.2025
 E.ON Regen,Arbeitspreis,"42,04 ct/kWh",04.02.2025
@@ -127,10 +125,6 @@ EVB Huntetal,Arbeitspreis,"39,29 ct/kWh",01.01.2025
 EVB Huntetal,Grundpreis,"136,01 €/Jahr",01.01.2025
 Stadtwerke Böhmetal,Arbeitspreis,"34,18 ct/kWh",01.01.2025
 Stadtwerke Böhmetal,Grundpreis,"121,38 €/Jahr",01.01.2025
-Stadtwerke Hameln,Arbeitspreis,"38,44 ct/kWh",01.02.2025
-Stadtwerke Hameln,Grundpreis,"95,82 €/Jahr",01.02.2025
-Stadtwerke Buchholz,Arbeitspreis,"34,14 ct/kWh",01.01.2025
-Stadtwerke Buchholz,Grundpreis,"116,74 €/Jahr",01.01.2025
 Stadtwerke Bramsche,Arbeitspreis,"32,61 ct/kWh",01.01.2025
 Stadtwerke Bramsche,Grundpreis,"214,20 €/Jahr",01.01.2025
 Stadtwerke Soltau,Arbeitspreis,"32,76 ct/kWh",01.01.2025
@@ -175,3 +169,7 @@ Stadtwerke Rastatt,Arbeitspreis,"39,81 ct/kWh",01.01.2025
 Stadtwerke Rastatt,Grundpreis,"142,51 €/Jahr",01.01.2025
 Stadtwerke Willich,Arbeitspreis,"37,46 ct/kWh",01.03.2025
 Stadtwerke Willich,Grundpreis,"200,02 €/Jahr",01.03.2025
+NEW,Arbeitspreis,"42,07 ct/kWh",01.01.2024
+NEW,Grundpreis,"132,59 €/Jahr",01.01.2024
+Stadtwerke Husum,Arbeitspreis,"40,78 ct/kWh",01.01.2025
+Stadtwerke Husum,Grundpreis,"145,18 €/Jahr",01.01.2025

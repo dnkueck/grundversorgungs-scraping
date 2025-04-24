@@ -14,8 +14,8 @@ Stadtwerke Wilhelmshaven,Arbeitspreis,"11,10 ct/kWh",ab 12.143 kWh/Jahr
 Stadtwerke Wilhelmshaven,Arbeitspreis,"11,94 ct/kWh",bis 12.142 kWh/Jahr
 Stadtwerke Wilhelmshaven,Arbeitspreis,"13,88 ct/kWh",bis 2.165 kWh/Jahr
 Stadtwerke Wilhelmshaven,Grundpreis,"14,00 €/Monat",Unbekannt
-Stadtwerke Nordhorn,Arbeitspreis,"10,88 ct/kWh",01.05.2024
-Stadtwerke Nordhorn,Grundpreis,"155,39 €/Jahr",01.05.2024
+Nordhorner Versorgungsbetriebe,Arbeitspreis,"10,88 ct/kWh",01.05.2024
+Nordhorner Versorgungsbetriebe,Grundpreis,"155,39 €/Jahr",01.05.2024
 Stadtwerke Schneverdingen,Arbeitspreis,"11,65 ct/kWh",Unbekannt
 Stadtwerke Schneverdingen,Grundpreis,"171,36 €/Jahr",Unbekannt
 Stadtwerke Norderney,Arbeitspreis,"12,16 ct/kWh",01.01.2025
@@ -26,10 +26,10 @@ Stadtwerke Springe,Arbeitspreis,"12,83 ct/kWh",01.01.2025
 Stadtwerke Springe,Grundpreis,"191,99 €/Jahr",01.01.2025
 Stadtwerke Clausthal,Arbeitspreis,"13,36 ct/kWh",01.01.2025
 Stadtwerke Clausthal,Grundpreis,"171,36 €/Jahr",01.01.2025
-Stadtwerke Jork,Arbeitspreis,"11,11 ct/kWh",01.02.2025
-Stadtwerke Jork,Grundpreis,"157,79 €/Jahr",01.02.2025
-Stadtwerke Winsen,Arbeitspreis,"12,32 ct/kWh",01.07.2024
-Stadtwerke Winsen,Grundpreis,"147,66 €/Jahr",01.07.2024
+Stadtwerke Buxtehude,Arbeitspreis,"11,11 ct/kWh",01.02.2025
+Stadtwerke Buxtehude,Grundpreis,"157,79 €/Jahr",01.02.2025
+SVO Vertrieb,Arbeitspreis,"12,32 ct/kWh",01.07.2024
+SVO Vertrieb,Grundpreis,"147,66 €/Jahr",01.07.2024
 Stadtwerke Georgsmarienhütte,Arbeitspreis,"12,94 ct/kWh",01.01.2025
 Stadtwerke Georgsmarienhütte,Grundpreis,"178,50 €/Jahr",01.01.2025
 enBw,Arbeitspreis,"14,35 ct/kWh",01.01.2025
@@ -42,16 +42,16 @@ Stadtwerke Bochum,Arbeitspreis,"12,17 ct/kWh",01.01.2025
 Stadtwerke Bochum,Grundpreis,"200,79 €/Jahr",01.01.2025
 Stadtwerke Konstanz,Arbeitspreis,"13,11 ct/kWh",01.10.2024
 Stadtwerke Konstanz,Grundpreis,"162,99 €/Jahr",01.10.2024
-Stadtwerke Herne,Arbeitspreis,"12,17 ct/kWh",01.01.2025
-Stadtwerke Herne,Grundpreis,"200,79 €/Jahr",01.01.2025
-Stadtwerke Cottbus,Arbeitspreis,"13,48 ct/kWh",01.03.2025
-Stadtwerke Cottbus,Grundpreis,"285,61 €/Jahr",01.03.2025
+Gas-Versorgungsbetriebe Cottbus,Arbeitspreis,"13,48 ct/kWh",01.03.2025
+Gas-Versorgungsbetriebe Cottbus,Grundpreis,"285,61 €/Jahr",01.03.2025
 Stadtwerke Göttingen,Arbeitspreis,"14,01 ct/kWh",01.01.2025
 Stadtwerke Göttingen,Grundpreis,"160,65 €/Jahr",01.01.2025
 Stadtwerke Pforzheim,Arbeitspreis,"14,53 ct/kWh",01.04.2024
 Stadtwerke Pforzheim,Grundpreis,"207,77 €/Jahr",01.04.2024
 Stadtwerke Passau,Arbeitspreis,"13,07 ct/kWh",Unbekannt
 Stadtwerke Passau,Grundpreis,"45,84 €/Jahr",Unbekannt
+Stadtwerke Augsburg,Arbeitspreis,"12,58 ct/kWh",01.01.2025
+Stadtwerke Augsburg,Grundpreis,"196,78 €/Jahr",01.01.2025
 Stadtwerke Kiel,Arbeitspreis,"13,52 ct/kWh",01.02.2025
 Stadtwerke Kiel,Grundpreis,"177,36 €/Jahr",01.02.2025
 Stadtwerke Tübingen,Arbeitspreis,"13,58 ct/kWh",01.01.2025
@@ -68,8 +68,8 @@ Stadtwerke Essen,Arbeitspreis,"13,04 ct/kWh",01.01.2025
 Stadtwerke Essen,Grundpreis,"118,29 €/Jahr",01.01.2025
 Stadtwerke Ulm/Neu-Ulm (SWU),Arbeitspreis,"13,72 ct/kWh",01.01.2025
 Stadtwerke Ulm/Neu-Ulm (SWU),Grundpreis,"134,32 €/Jahr",01.01.2025
-Stadtwerke Regensburg,Arbeitspreis,"19,20 ct/kWh",01.04.2024
-Stadtwerke Regensburg,Grundpreis,"38,71 €/Jahr",01.04.2024
+REWAG,Arbeitspreis,"19,20 ct/kWh",01.04.2024
+REWAG,Grundpreis,"38,71 €/Jahr",01.04.2024
 Stadtwerke Bayreuth,Arbeitspreis,"12,26 ct/kWh",01.04.2024
 Stadtwerke Bayreuth,Grundpreis,"146,37 €/Jahr",01.04.2024
 Stadtwerke Bamberg,Arbeitspreis,"14,92 ct/kWh",01.01.2025
@@ -78,12 +78,16 @@ Stadtwerke Landshut,Arbeitspreis,"13,99 ct/kWh",01.01.2025
 Stadtwerke Landshut,Grundpreis,"91,53 €/Jahr",01.01.2025
 Stadtwerke Hof,Arbeitspreis,"11,28 ct/kWh",01.04.2024
 Stadtwerke Hof,Grundpreis,"182,50 €/Jahr",01.04.2024
+E.ON Flensburg,Arbeitspreis,"12,16 ct/kWh",01.01.2025
+E.ON Flensburg,Grundpreis,"281,55 €/Jahr",01.01.2025
+Stadtwerke Gießen,Arbeitspreis,"12,28 ct/kWh",01.04.2024
+Stadtwerke Gießen,Grundpreis,"167,00 €/Jahr",01.04.2024
 Stadtwerke Pirmasens,Arbeitspreis,"16,24 ct/kWh",01.01.2025
 Stadtwerke Pirmasens,Grundpreis,"143,94 €/Jahr",01.01.2025
 Stadtwerke Düren,Arbeitspreis,"14,22 ct/kWh",01.04.2025
 Stadtwerke Düren,Grundpreis,"239,90 €/Jahr",01.04.2025
-Stadtwerke Schwerin,Arbeitspreis,"12,47 ct/kWh",01.01.2025
-Stadtwerke Schwerin,Grundpreis,"273,51 €/Jahr",01.01.2025
+E.ON Schwerin,Arbeitspreis,"12,47 ct/kWh",01.01.2025
+E.ON Schwerin,Grundpreis,"273,51 €/Jahr",01.01.2025
 Stadtwerke Coesfeld,Arbeitspreis,"15,35 ct/kWh",01.01.2025
 Stadtwerke Coesfeld,Grundpreis,"178,50 €/Jahr",01.01.2025
 Stadtwerke Dachau,Arbeitspreis,"13,14 ct/kWh",01.04.2025
@@ -96,16 +100,16 @@ Stadtwerke Wolfenbüttel,Arbeitspreis,"11,48 ct/kWh",01.03.2024
 Stadtwerke Wolfenbüttel,Grundpreis,"99,90 €/Jahr",01.03.2024
 Stadtwerke Merseburg,Arbeitspreis,"14,26 ct/kWh",01.01.2025
 Stadtwerke Merseburg,Grundpreis,"142,81 €/Jahr",01.01.2025
-Stadtwerke Tuttlingen,Arbeitspreis,"12,29 ct/kWh",01.03.2025
-Stadtwerke Tuttlingen,Grundpreis,"140,94 €/Jahr",01.03.2025
-Stadtwerke Forchheim,Arbeitspreis,"13,02 ct/kWh",01.01.2025
-Stadtwerke Forchheim,Grundpreis,"85,68 €/Jahr",01.01.2025
+badenova Energie,Arbeitspreis,"12,29 ct/kWh",01.03.2025
+badenova Energie,Grundpreis,"140,94 €/Jahr",01.03.2025
+EFG Erdgas Forchheim,Arbeitspreis,"13,02 ct/kWh",01.01.2025
+EFG Erdgas Forchheim,Grundpreis,"85,68 €/Jahr",01.01.2025
 Stadtwerke Bad Nauheim,Arbeitspreis,"12,16 ct/kWh",01.04.2024
 Stadtwerke Bad Nauheim,Grundpreis,"111,13 €/Jahr",01.04.2024
 Stadtwerke Northeim,Arbeitspreis,"13,05 ct/kWh",01.01.2025
 Stadtwerke Northeim,Grundpreis,"149,94 €/Jahr",01.01.2025
-Stadtwerke Kassel,Arbeitspreis,"14,80 ct/kWh",01.04.2024
-Stadtwerke Kassel,Grundpreis,"155,15 €/Jahr",01.04.2024
+Städische Werke,Arbeitspreis,"14,80 ct/kWh",01.04.2024
+Städische Werke,Grundpreis,"155,15 €/Jahr",01.04.2024
 Stadtwerke Lemgo,Arbeitspreis,"12,62 ct/kWh",01.02.2025
 Stadtwerke Lemgo,Grundpreis,"64,97 €/Jahr",01.02.2025
 Stadtwerke Bad Salzuflen,Arbeitspreis,"11,90 ct/kWh",01.02.2025
@@ -114,14 +118,14 @@ Stadtwerke Zeitz,Arbeitspreis,"13,89 ct/kWh",01.01.2025
 Stadtwerke Zeitz,Grundpreis,"128,53 €/Jahr",01.01.2025
 Stadtwerke Soest,Arbeitspreis,"14,16 ct/kWh",01.04.2024
 Stadtwerke Soest,Grundpreis,"178,50 €/Jahr",01.04.2024
-Stadtwerke Pößneck,Arbeitspreis,"16,02 ct/kWh",01.10.2023
-Stadtwerke Pößneck,Grundpreis,"98,25 €/Jahr",01.10.2023
-Stadtwerke Telgte,Arbeitspreis,"13,03 ct/kWh",01.01.2025
-Stadtwerke Telgte,Grundpreis,"199,92 €/Jahr",01.01.2025
-Stadtwerke Weißenfels,Arbeitspreis,"14,14 ct/kWh",01.01.2025
-Stadtwerke Weißenfels,Grundpreis,"80,33 €/Jahr",01.01.2025
-Stadtwerke Luegde,Arbeitspreis,"12,28 ct/kWh",01.05.2024
-Stadtwerke Luegde,Grundpreis,"142,81 €/Jahr",01.05.2024
+Stadtwerke Energie Jena-Pößneck,Arbeitspreis,"16,02 ct/kWh",01.10.2023
+Stadtwerke Energie Jena-Pößneck,Grundpreis,"98,25 €/Jahr",01.10.2023
+Stadtwerke Ostmünsterland,Arbeitspreis,"13,03 ct/kWh",01.01.2025
+Stadtwerke Ostmünsterland,Grundpreis,"199,92 €/Jahr",01.01.2025
+MITGAS,Arbeitspreis,"14,14 ct/kWh",01.01.2025
+MITGAS,Grundpreis,"80,33 €/Jahr",01.01.2025
+Stadtwerke Bad Pyrmont,Arbeitspreis,"12,28 ct/kWh",01.05.2024
+Stadtwerke Bad Pyrmont,Grundpreis,"142,81 €/Jahr",01.05.2024
 Stadtwerke Troisdorf,Arbeitspreis,"13,24 ct/kWh",01.04.2024
 Stadtwerke Troisdorf,Grundpreis,"149,89 €/Jahr",01.04.2024
 Stadtwerke Gronau,Arbeitspreis,"13,07 ct/kWh",01.01.2025
@@ -130,8 +134,8 @@ Stadtwerke Itzehoe,Arbeitspreis,"11,89 ct/kWh",01.01.2025
 Stadtwerke Itzehoe,Grundpreis,"253,47 €/Jahr",01.01.2025
 Stadtwerke Bebra,Arbeitspreis,"14,19 ct/kWh",01.04.2024
 Stadtwerke Bebra,Grundpreis,"146,37 €/Jahr",01.04.2024
-Stadtwerke Waldkraiburg,Arbeitspreis,"13,64 ct/kWh",01.10.2024
-Stadtwerke Waldkraiburg,Grundpreis,"251,99 €/Jahr",01.10.2024
+Energie Südbayern,Arbeitspreis,"13,64 ct/kWh",01.10.2024
+Energie Südbayern,Grundpreis,"251,99 €/Jahr",01.10.2024
 Stadtwerke Lübbecke,Arbeitspreis,"12,37 ct/kWh",01.01.2025
 Stadtwerke Lübbecke,Grundpreis,"246,19 €/Jahr",01.01.2025
 Stadtwerke Wernigerode,Arbeitspreis,"13,64 ct/kWh",01.01.2024
@@ -142,27 +146,31 @@ Erdgas Südwest,Arbeitspreis,"13,98 ct/kWh",01.04.2024
 Erdgas Südwest,Grundpreis,"163,22 €/Jahr",01.04.2024
 Stadtwerke Dreieich,Arbeitspreis,"13,95 ct/kWh",01.01.2025
 Stadtwerke Dreieich,Grundpreis,"214,00 €/Jahr",01.01.2025
-Stadtwerke Ahaus,Arbeitspreis,"12,95 ct/kWh",01.01.2025
-Stadtwerke Ahaus,Grundpreis,"155,65 €/Jahr",01.01.2025
+LokalWerke,Arbeitspreis,"12,95 ct/kWh",01.01.2025
+LokalWerke,Grundpreis,"155,65 €/Jahr",01.01.2025
+Stadtwerke Mosbach,Arbeitspreis,"15,91 ct/kWh",01.07.2024
+Stadtwerke Mosbach,Grundpreis,"189,21 €/Jahr",01.07.2024
 Stadtwerke Gaggenau,Arbeitspreis,"13,89 ct/kWh",01.01.2025
 Stadtwerke Gaggenau,Grundpreis,"62,15 €/Jahr",01.01.2025
-Stadtwerke Neustadt (Weinstraße),Arbeitspreis,"11,31 ct/kWh",01.01.2025
-Stadtwerke Neustadt (Weinstraße),Grundpreis,"333,51 €/Jahr",01.01.2025
+Erenja AG,Arbeitspreis,"11,31 ct/kWh",01.01.2025
+Erenja AG,Grundpreis,"333,51 €/Jahr",01.01.2025
 Stadtwerke Straubing,Arbeitspreis,"14,71 ct/kWh",Unbekannt
 Stadtwerke Straubing,Grundpreis,"42,84 €/Jahr",Unbekannt
 Stadtwerke Schwäbisch Hall,Arbeitspreis,"13,23 ct/kWh",01.01.2025
 Stadtwerke Schwäbisch Hall,Grundpreis,"185,64 €/Jahr",01.01.2025
 Stadtwerke Ahlen,Arbeitspreis,"12,80 ct/kWh",01.01.2025
 Stadtwerke Ahlen,Grundpreis,"185,64 €/Jahr",01.01.2025
-Stadtwerke Dillingen,Arbeitspreis,"11,90 ct/kWh",01.01.2025
-Stadtwerke Dillingen,Grundpreis,"142,81 €/Jahr",01.01.2025
-Stadtwerke Solingen,Arbeitspreis,"13,27 ct/kWh",01.02.2025
-Stadtwerke Solingen,Grundpreis,"178,61 €/Jahr",01.02.2025
-Stadtwerke Rüsselsheim,Arbeitspreis,"13,91 ct/kWh",01.01.2025
-Stadtwerke Rüsselsheim,Grundpreis,"187,35 €/Jahr",01.01.2025
+energie schwaben,Arbeitspreis,"11,90 ct/kWh",01.01.2025
+energie schwaben,Grundpreis,"142,81 €/Jahr",01.01.2025
+WSW,Arbeitspreis,"13,27 ct/kWh",01.02.2025
+WSW,Grundpreis,"178,61 €/Jahr",01.02.2025
+Energieversorgung Rüsselsheim,Arbeitspreis,"13,91 ct/kWh",01.01.2025
+Energieversorgung Rüsselsheim,Grundpreis,"187,35 €/Jahr",01.01.2025
 Stadtwerke Bad Hersfeld,Arbeitspreis,"14,64 ct/kWh",01.04.2024
 Stadtwerke Bad Hersfeld,Grundpreis,"142,81 €/Jahr",01.04.2024
-Süwag Vertrieb,Arbeitspreis,"13,22 ct/kWh",01.01.2025
-Süwag Vertrieb,Grundpreis,"108,30 €/Jahr",01.01.2025
+Mainova,Arbeitspreis,"13,22 ct/kWh",01.01.2025
+Mainova,Grundpreis,"108,30 €/Jahr",01.01.2025
 E.ON Belm,Arbeitspreis,"13,97 ct/kWh",01.01.2025
 E.ON Belm,Grundpreis,"269,06 €/Jahr",01.01.2025
+E.ON Regen,Arbeitspreis,Unbekannt,Unbekannt
+E.ON Regen,Grundpreis,Unbekannt,Unbekannt

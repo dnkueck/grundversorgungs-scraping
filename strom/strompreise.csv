@@ -1,180 +1,4 @@
 Anbieter,Typ,Wert,Zeitraum
-Stadtwerke Lengerich,Arbeitspreis,"33,61 ct/kWh",01.01.2025
-Stadtwerke Lengerich,Grundpreis,"160,65 €/Jahr",01.01.2025
-Stadtwerke Eprimo GmbH,Arbeitspreis,"42,71 ct/kWh",01.05.2024
-Stadtwerke Eprimo GmbH,Grundpreis,"102,98 €/Jahr",01.05.2024
-Stadtwerke Bad Hersfeld,Arbeitspreis,"38,79 ct/kWh",01.01.2025
-Stadtwerke Bad Hersfeld,Grundpreis,"142,81 €/Jahr",01.01.2025
-Süwag Vertrieb,Arbeitspreis,"39,50 ct/kWh",01.01.2025
-Süwag Vertrieb,Grundpreis,"143,84 €/Jahr",01.01.2025
-E.ON Belm,Arbeitspreis,"39,14 ct/kWh",04.02.2025
-E.ON Belm,Grundpreis,"198,97 €/Jahr",04.02.2025
-E.ON Übersee,Arbeitspreis,"42,04 ct/kWh",04.02.2025
-E.ON Übersee,Grundpreis,"245,44 €/Jahr",04.02.2025
-E.ON Moringen,Arbeitspreis,"34,21 ct/kWh",04.02.2025
-E.ON Moringen,Grundpreis,"162,17 €/Jahr",04.02.2025
-E.ON Regen,Arbeitspreis,"42,04 ct/kWh",04.02.2025
-E.ON Regen,Grundpreis,"245,44 €/Jahr",04.02.2025
-E.ON Lehre,Arbeitspreis,"44,26 ct/kWh",04.02.2025
-E.ON Lehre,Grundpreis,"175,60 €/Jahr",04.02.2025
-E.ON Barsinghausen,Arbeitspreis,"44,26 ct/kWh",04.02.2025
-E.ON Barsinghausen,Grundpreis,"175,60 €/Jahr",04.02.2025
-E.ON Stuhr,Arbeitspreis,"44,26 ct/kWh",04.02.2025
-E.ON Stuhr,Grundpreis,"175,60 €/Jahr",04.02.2025
-E.ON Much,Arbeitspreis,"43,64 ct/kWh",04.02.2025
-E.ON Much,Grundpreis,"228,35 €/Jahr",04.02.2025
-Stadtwerke Bad Kreuznach,Arbeitspreis,"41,63 ct/kWh",01.01.2025
-Stadtwerke Bad Kreuznach,Grundpreis,"177,98 €/Jahr",01.01.2025
-E.ON Oststeinbek,Arbeitspreis,"35,35 ct/kWh",04.02.2025
-E.ON Oststeinbek,Grundpreis,"121,27 €/Jahr",04.02.2025
-Stadtwerke Groß-Gerau,Arbeitspreis,"37,14 ct/kWh",01.02.2025
-Stadtwerke Groß-Gerau,Grundpreis,"126,00 €/Jahr",01.02.2025
-Stadtwerke Dinslaken,Arbeitspreis,"33,97 ct/kWh",01.01.2025
-Stadtwerke Dinslaken,Grundpreis,"204,00 €/Jahr",01.01.2025
-EWV,Arbeitspreis,"41,89 ct/kWh",01.06.2023
-EWV,Grundpreis,"109,81 €/Jahr",01.06.2023
-ENNI,Arbeitspreis,"40,64 ct/kWh",01.01.2025
-ENNI,Grundpreis,"206,93 €/Jahr",01.01.2025
-Stadtwerke Kleve,Arbeitspreis,"39,39 ct/kWh",01.01.2025
-Stadtwerke Kleve,Grundpreis,"74,91 €/Jahr",01.01.2025
-Stadtwerke Meerbusch,Arbeitspreis,"37,07 ct/kWh",01.03.2025
-Stadtwerke Meerbusch,Grundpreis,"196,35 €/Jahr",01.03.2025
-Stadtwerke Neuss,Arbeitspreis,"43,10 ct/kWh",01.01.2023
-Stadtwerke Neuss,Grundpreis,"129,53 €/Jahr",01.01.2023
-Stadtwerke Düsseldorf,Arbeitspreis,"38,43 ct/kWh",01.03.2024
-Stadtwerke Düsseldorf,Grundpreis,"89,11 €/Jahr",01.03.2024
-DEW21 (Dortmund),Arbeitspreis,"41,55 ct/kWh",01.01.2025
-DEW21 (Dortmund),Grundpreis,"166,80 €/Jahr",01.01.2025
-DREWAG (Dresden),Arbeitspreis,"38,75 ct/kWh",01.01.2023
-DREWAG (Dresden),Grundpreis,"110,57 €/Jahr",01.01.2023
-enercity,Arbeitspreis,"40,57 ct/kWh",01.03.2025
-enercity,Grundpreis,"154,76 €/Jahr",01.03.2025
-Stadtwerke Duisburg,Arbeitspreis,"42,97 ct/kWh",01.01.2025
-Stadtwerke Duisburg,Grundpreis,"173,88 €/Jahr",01.01.2025
-WSW (Wuppertal),Arbeitspreis,"40,75 ct/kWh",01.01.2025
-WSW (Wuppertal),Grundpreis,"154,12 €/Jahr",01.01.2025
-ESWE (Wiesbaden,Arbeitspreis,"39,31 ct/kWh",01.01.2025
-ESWE (Wiesbaden,Grundpreis,"137,53 €/Jahr",01.01.2025
-Emscher Lippe energie,Arbeitspreis,"39,92 ct/kWh",01.01.2025
-Emscher Lippe energie,Grundpreis,"163,82 €/Jahr",01.01.2025
-STAWAG (Aachen),Arbeitspreis,"44,89 ct/kWh",01.05.2024
-STAWAG (Aachen),Grundpreis,"114,00 €/Jahr",01.05.2024
-Braunschweiger Versorgung,Arbeitspreis,"38,91 ct/kWh",01.01.2025
-Braunschweiger Versorgung,Grundpreis,"107,99 €/Jahr",01.01.2025
-Städtische Werke Magdeburg,Arbeitspreis,"36,53 ct/kWh",01.01.2025
-Städtische Werke Magdeburg,Grundpreis,"155,90 €/Jahr",01.01.2025
-SWK ENERGIE,Arbeitspreis,"29,96 ct/kWh",01.03.2025
-SWK ENERGIE,Grundpreis,"181,69 €/Jahr",01.03.2025
-TWO,Arbeitspreis,"37,73 ct/kWh",01.01.2025
-TWO,Grundpreis,"157,09 €/Jahr",01.01.2025
-SWE Energie (Erfurt),Arbeitspreis,"37,60 ct/kWh",01.01.2025
-SWE Energie (Erfurt),Grundpreis,"196,49 €/Jahr",01.01.2025
-Stadtwerke Lübeck,Arbeitspreis,"38,47 ct/kWh",04.02.2025
-Stadtwerke Lübeck,Grundpreis,"149,06 €/Jahr",04.02.2025
-Energieversorgung Oberhausen AG,Arbeitspreis,"39,08 ct/kWh",01.01.2025
-Energieversorgung Oberhausen AG,Grundpreis,"169,11 €/Jahr",01.01.2025
-Stadtwerke Rostock,Arbeitspreis,"36,30 ct/kWh",01.01.2025
-Stadtwerke Rostock,Grundpreis,"90,08 €/Jahr",01.01.2025
-Mark-E,Arbeitspreis,"39,90 ct/kWh",01.02.2025
-Mark-E,Grundpreis,"149,95 €/Jahr",01.02.2025
-Energie und Wasser Potsdam,Arbeitspreis,"37,39 ct/kWh",01.01.2025
-Energie und Wasser Potsdam,Grundpreis,"92,96 €/Jahr",01.01.2025
-SaarLorLux,Arbeitspreis,"34,83 ct/kWh",01.02.2025
-SaarLorLux,Grundpreis,"151,06 €/Jahr",01.02.2025
-Stadtwerke Hamm,Arbeitspreis,"35,16 ct/kWh",01.04.2024
-Stadtwerke Hamm,Grundpreis,"166,01 €/Jahr",01.04.2024
-Energieversorgung Leverkusen,Arbeitspreis,"36,87 ct/kWh",01.01.2025
-Energieversorgung Leverkusen,Grundpreis,"217,76 €/Jahr",01.01.2025
-LSW Energie (Wolfsburg),Arbeitspreis,"30,00 ct/kWh",01.01.2025
-LSW Energie (Wolfsburg),Grundpreis,"101,03 €/Jahr",01.01.2025
-WEVG Salzgitter,Arbeitspreis,"36,99 ct/kWh",01.04.2025
-WEVG Salzgitter,Grundpreis,"171,36 €/Jahr",01.04.2025
-SVO Vertrieb,Arbeitspreis,"36,53 ct/kWh",01.01.2025
-SVO Vertrieb,Grundpreis,"142,81 €/Jahr",01.01.2025
-Stadtwerke Rotenburg (Wümme),Arbeitspreis,"34,43 ct/kWh",01.01.2024
-Stadtwerke Rotenburg (Wümme),Grundpreis,"99,00 €/Jahr",01.01.2024
-Stadtwerke Bad Harzburg,Arbeitspreis,"36,30 ct/kWh",01.01.2025
-Stadtwerke Bad Harzburg,Grundpreis,"121,38 €/Jahr",01.01.2025
-Energieversorgung Sehnde,Arbeitspreis,"37,49 ct/kWh",01.01.2025
-Energieversorgung Sehnde,Grundpreis,"164,22 €/Jahr",01.01.2025
-Stadtwerke Zeven,Arbeitspreis,"32,87 ct/kWh",01.01.2025
-Stadtwerke Zeven,Grundpreis,"100,02 €/Jahr",01.01.2025
-Energieversorgung,Arbeitspreis,"35,07 ct/kWh",01.03.2024
-Energieversorgung,Grundpreis,"111,59 €/Jahr",01.03.2024
-Stadtwerke Munster-Bispingen,Arbeitspreis,"41,96 ct/kWh",01.06.2025
-Stadtwerke Munster-Bispingen,Grundpreis,"57,12 €/Jahr",01.06.2025
-E.ON Rinteln,Arbeitspreis,"38,07 ct/kWh",04.02.2025
-E.ON Rinteln,Grundpreis,"149,70 €/Jahr",04.02.2025
-Stadtwerke Peine,Arbeitspreis,"35,81 ct/kWh",01.01.2025
-Stadtwerke Peine,Grundpreis,"0,00 €/Jahr",01.01.2025
-Harz Energie,Arbeitspreis,"35,46 ct/kWh",01.01.2025
-Harz Energie,Grundpreis,"137,94 €/Jahr",01.01.2025
-Energieversorgung Dahlenburg-Bleckede,Arbeitspreis,"33,17 ct/kWh",01.01.2025
-Energieversorgung Dahlenburg-Bleckede,Grundpreis,"111,00 €/Jahr",01.01.2025
-E.ON Hann Münden,Arbeitspreis,"34,21 ct/kWh",04.02.2025
-E.ON Hann Münden,Grundpreis,"162,17 €/Jahr",04.02.2025
-Stadtwerke Garbsen,Arbeitspreis,"33,60 ct/kWh",01.01.2025
-Stadtwerke Garbsen,Grundpreis,"113,17 €/Jahr",01.01.2025
-Stadtwerke Schüttorf - Emsbüren,Arbeitspreis,"35,35 ct/kWh",01.01.2025
-Stadtwerke Schüttorf - Emsbüren,Grundpreis,"152,32 €/Jahr",01.01.2025
-E.ON Duderstadt,Arbeitspreis,"34,21 ct/kWh",04.02.2025
-E.ON Duderstadt,Grundpreis,"162,17 €/Jahr",04.02.2025
-Teutoburger Energie Netzwerk,Arbeitspreis,"38,40 ct/kWh",01.01.2025
-Teutoburger Energie Netzwerk,Grundpreis,"159,46 €/Jahr",01.01.2025
-Energiegesoffenschaft für Wittmund,Arbeitspreis,"29,94 ct/kWh",01.01.2025
-Energiegesoffenschaft für Wittmund,Grundpreis,"199,92 €/Jahr",01.01.2025
-EVB Huntetal,Arbeitspreis,"39,29 ct/kWh",01.01.2025
-EVB Huntetal,Grundpreis,"136,01 €/Jahr",01.01.2025
-Stadtwerke Böhmetal,Arbeitspreis,"34,18 ct/kWh",01.01.2025
-Stadtwerke Böhmetal,Grundpreis,"121,38 €/Jahr",01.01.2025
-Stadtwerke Hameln,Arbeitspreis,"38,44 ct/kWh",01.02.2025
-Stadtwerke Hameln,Grundpreis,"95,82 €/Jahr",01.02.2025
-Stadtwerke Buchholz,Arbeitspreis,"34,14 ct/kWh",01.01.2025
-Stadtwerke Buchholz,Grundpreis,"116,74 €/Jahr",01.01.2025
-Stadtwerke Bramsche,Arbeitspreis,"32,61 ct/kWh",01.01.2025
-Stadtwerke Bramsche,Grundpreis,"214,20 €/Jahr",01.01.2025
-Stadtwerke Soltau,Arbeitspreis,"32,76 ct/kWh",01.01.2025
-Stadtwerke Soltau,Grundpreis,"81,80 €/Jahr",01.01.2025
-Stadtwerke Verden,Arbeitspreis,"36,96 ct/kWh",01.01.2025
-Stadtwerke Verden,Grundpreis,"51,29 €/Jahr",01.01.2025
-Nordseeheilbad Borkum,Arbeitspreis,"31,87 ct/kWh",01.01.2025
-Nordseeheilbad Borkum,Grundpreis,"90,00 €/Jahr",01.01.2025
-Stadtwerke Burgdorf,Arbeitspreis,"33,32 ct/kWh",01.01.2025
-Stadtwerke Burgdorf,Grundpreis,"94,80 €/Jahr",01.01.2025
-Stadtwerke Schaumburg-Lippe,Arbeitspreis,"34,53 ct/kWh",01.03.2024
-Stadtwerke Schaumburg-Lippe,Grundpreis,"182,45 €/Jahr",01.03.2024
-Gemeindewerke Bovenden,Arbeitspreis,"34,64 ct/kWh",01.01.2025
-Gemeindewerke Bovenden,Grundpreis,"142,81 €/Jahr",01.01.2025
-Energiewerke Isernhagen,Arbeitspreis,"36,60 ct/kWh",01.01.2025
-Energiewerke Isernhagen,Grundpreis,"142,01 €/Jahr",01.01.2025
-Stadtwerke Einbeck,Arbeitspreis,"38,58 ct/kWh",01.01.2025
-Stadtwerke Einbeck,Grundpreis,"154,28 €/Jahr",01.01.2025
-Stadtwerke Lüdenscheid,Arbeitspreis,"39,90 ct/kWh",01.02.2025
-Stadtwerke Lüdenscheid,Grundpreis,"149,95 €/Jahr",01.02.2025
-Stadtwerke Lippstadt,Arbeitspreis,"32,44 ct/kWh",01.01.2025
-Stadtwerke Lippstadt,Grundpreis,"157,09 €/Jahr",01.01.2025
-Stadtwerke Strom Plauen,Arbeitspreis,"34,71 ct/kWh",01.01.2025
-Stadtwerke Strom Plauen,Grundpreis,"115,24 €/Jahr",01.01.2025
-Elektrizitätswerk Mittelbaden,Arbeitspreis,"39,79 ct/kWh",01.01.2025
-Elektrizitätswerk Mittelbaden,Grundpreis,"174,32 €/Jahr",01.01.2025
-Stadtwerke Sindelfingen,Arbeitspreis,"30,79 ct/kWh",01.01.2025
-Stadtwerke Sindelfingen,Grundpreis,"176,24 €/Jahr",01.01.2025
-Hertener Stadtwerke,Arbeitspreis,"37,85 ct/kWh",01.10.2023
-Hertener Stadtwerke,Grundpreis,"129,60 €/Jahr",01.10.2023
-Energieversorung Filstal,Arbeitspreis,"33,80 ct/kWh",01.01.2025
-Energieversorung Filstal,Grundpreis,"154,70 €/Jahr",01.01.2025
-Stadtwerke Waiblingen,Arbeitspreis,"39,23 ct/kWh",01.01.2024
-Stadtwerke Waiblingen,Grundpreis,"178,50 €/Jahr",01.01.2024
-Energie-Rhein-Sieg,Arbeitspreis,"26,93 ct/kWh",01.01.2025
-Energie-Rhein-Sieg,Grundpreis,"216,58 €/Jahr",01.01.2025
-Stadtwerke Görlitz,Arbeitspreis,"35,94 ct/kWh",01.01.2025
-Stadtwerke Görlitz,Grundpreis,"143,99 €/Jahr",01.01.2025
-Stadtwerke Speyer,Arbeitspreis,"37,21 ct/kWh",01.01.2025
-Stadtwerke Speyer,Grundpreis,"149,84 €/Jahr",01.01.2025
-Stadtwerke Rastatt,Arbeitspreis,"39,81 ct/kWh",01.01.2025
-Stadtwerke Rastatt,Grundpreis,"142,51 €/Jahr",01.01.2025
-Stadtwerke Willich,Arbeitspreis,"37,46 ct/kWh",01.03.2025
-Stadtwerke Willich,Grundpreis,"200,02 €/Jahr",01.03.2025
 EWE,Arbeitspreis,"31,90 ct/kWh",01.02.2025
 EWE,Grundpreis,"209,29 €/Jahr",01.02.2025
 SWB Bremen,Arbeitspreis,"31,30 ct/kWh",Unbekannt
@@ -367,3 +191,217 @@ Stadtwerke Traunstein,Arbeitspreis,"32,14 ct/kWh",01.09.2024
 Stadtwerke Traunstein,Grundpreis,"119,00 €/Jahr",01.09.2024
 Stadtwerke Solingen,Arbeitspreis,"39,94 ct/kWh",01.04.2025
 Stadtwerke Solingen,Grundpreis,"180,19 €/Jahr",01.04.2025
+Stadtwerke Lengerich,Arbeitspreis,"33,61 ct/kWh",01.01.2025
+Stadtwerke Lengerich,Grundpreis,"160,65 €/Jahr",01.01.2025
+Stadtwerke Eprimo GmbH,Arbeitspreis,"42,71 ct/kWh",01.05.2024
+Stadtwerke Eprimo GmbH,Grundpreis,"102,98 €/Jahr",01.05.2024
+Stadtwerke Bad Hersfeld,Arbeitspreis,"38,79 ct/kWh",01.01.2025
+Stadtwerke Bad Hersfeld,Grundpreis,"142,81 €/Jahr",01.01.2025
+Süwag Vertrieb,Arbeitspreis,"39,50 ct/kWh",01.01.2025
+Süwag Vertrieb,Grundpreis,"143,84 €/Jahr",01.01.2025
+E.ON Belm,Arbeitspreis,"39,14 ct/kWh",04.02.2025
+E.ON Belm,Grundpreis,"198,97 €/Jahr",04.02.2025
+E.ON Moringen,Arbeitspreis,"34,21 ct/kWh",04.02.2025
+E.ON Moringen,Grundpreis,"162,17 €/Jahr",04.02.2025
+E.ON Regen,Arbeitspreis,"42,04 ct/kWh",04.02.2025
+E.ON Regen,Grundpreis,"245,44 €/Jahr",04.02.2025
+E.ON Lehre,Arbeitspreis,"44,26 ct/kWh",04.02.2025
+E.ON Lehre,Grundpreis,"175,60 €/Jahr",04.02.2025
+E.ON Barsinghausen,Arbeitspreis,"44,26 ct/kWh",04.02.2025
+E.ON Barsinghausen,Grundpreis,"175,60 €/Jahr",04.02.2025
+E.ON Stuhr,Arbeitspreis,"44,26 ct/kWh",04.02.2025
+E.ON Stuhr,Grundpreis,"175,60 €/Jahr",04.02.2025
+E.ON Much,Arbeitspreis,"43,64 ct/kWh",04.02.2025
+E.ON Much,Grundpreis,"228,35 €/Jahr",04.02.2025
+Stadtwerke Bad Kreuznach,Arbeitspreis,"41,63 ct/kWh",01.01.2025
+Stadtwerke Bad Kreuznach,Grundpreis,"177,98 €/Jahr",01.01.2025
+E.ON Oststeinbek,Arbeitspreis,"35,35 ct/kWh",04.02.2025
+E.ON Oststeinbek,Grundpreis,"121,27 €/Jahr",04.02.2025
+Stadtwerke Groß-Gerau,Arbeitspreis,"37,14 ct/kWh",01.02.2025
+Stadtwerke Groß-Gerau,Grundpreis,"126,00 €/Jahr",01.02.2025
+Stadtwerke Dinslaken,Arbeitspreis,"33,97 ct/kWh",01.01.2025
+Stadtwerke Dinslaken,Grundpreis,"204,00 €/Jahr",01.01.2025
+EWV,Arbeitspreis,"41,89 ct/kWh",01.06.2023
+EWV,Grundpreis,"109,81 €/Jahr",01.06.2023
+ENNI,Arbeitspreis,"40,64 ct/kWh",01.01.2025
+ENNI,Grundpreis,"206,93 €/Jahr",01.01.2025
+Stadtwerke Kleve,Arbeitspreis,"39,39 ct/kWh",01.01.2025
+Stadtwerke Kleve,Grundpreis,"74,91 €/Jahr",01.01.2025
+Stadtwerke Meerbusch,Arbeitspreis,"37,07 ct/kWh",01.03.2025
+Stadtwerke Meerbusch,Grundpreis,"196,35 €/Jahr",01.03.2025
+Stadtwerke Neuss,Arbeitspreis,"43,10 ct/kWh",01.01.2023
+Stadtwerke Neuss,Grundpreis,"129,53 €/Jahr",01.01.2023
+Stadtwerke Düsseldorf,Arbeitspreis,"38,43 ct/kWh",01.03.2024
+Stadtwerke Düsseldorf,Grundpreis,"89,11 €/Jahr",01.03.2024
+DEW21 (Dortmund),Arbeitspreis,"41,55 ct/kWh",01.01.2025
+DEW21 (Dortmund),Grundpreis,"166,80 €/Jahr",01.01.2025
+DREWAG (Dresden),Arbeitspreis,"38,75 ct/kWh",01.01.2023
+DREWAG (Dresden),Grundpreis,"110,57 €/Jahr",01.01.2023
+enercity,Arbeitspreis,"40,57 ct/kWh",01.03.2025
+enercity,Grundpreis,"154,76 €/Jahr",01.03.2025
+Stadtwerke Duisburg,Arbeitspreis,"42,97 ct/kWh",01.01.2025
+Stadtwerke Duisburg,Grundpreis,"173,88 €/Jahr",01.01.2025
+WSW (Wuppertal),Arbeitspreis,"40,75 ct/kWh",01.01.2025
+WSW (Wuppertal),Grundpreis,"154,12 €/Jahr",01.01.2025
+ESWE (Wiesbaden,Arbeitspreis,"39,31 ct/kWh",01.01.2025
+ESWE (Wiesbaden,Grundpreis,"137,53 €/Jahr",01.01.2025
+Emscher Lippe energie,Arbeitspreis,"39,92 ct/kWh",01.01.2025
+Emscher Lippe energie,Grundpreis,"163,82 €/Jahr",01.01.2025
+STAWAG (Aachen),Arbeitspreis,"44,89 ct/kWh",01.05.2024
+STAWAG (Aachen),Grundpreis,"114,00 €/Jahr",01.05.2024
+Braunschweiger Versorgung,Arbeitspreis,"38,91 ct/kWh",01.01.2025
+Braunschweiger Versorgung,Grundpreis,"107,99 €/Jahr",01.01.2025
+Städtische Werke Magdeburg,Arbeitspreis,"36,53 ct/kWh",01.01.2025
+Städtische Werke Magdeburg,Grundpreis,"155,90 €/Jahr",01.01.2025
+SWK ENERGIE,Arbeitspreis,"29,96 ct/kWh",01.03.2025
+SWK ENERGIE,Grundpreis,"181,69 €/Jahr",01.03.2025
+TWO,Arbeitspreis,"37,73 ct/kWh",01.01.2025
+TWO,Grundpreis,"157,09 €/Jahr",01.01.2025
+SWE Energie (Erfurt),Arbeitspreis,"37,60 ct/kWh",01.01.2025
+SWE Energie (Erfurt),Grundpreis,"196,49 €/Jahr",01.01.2025
+Stadtwerke Lübeck,Arbeitspreis,"38,47 ct/kWh",04.02.2025
+Stadtwerke Lübeck,Grundpreis,"149,06 €/Jahr",04.02.2025
+Energieversorgung Oberhausen AG,Arbeitspreis,"39,08 ct/kWh",01.01.2025
+Energieversorgung Oberhausen AG,Grundpreis,"169,11 €/Jahr",01.01.2025
+Stadtwerke Rostock,Arbeitspreis,"36,30 ct/kWh",01.01.2025
+Stadtwerke Rostock,Grundpreis,"90,08 €/Jahr",01.01.2025
+Mark-E,Arbeitspreis,"39,90 ct/kWh",01.02.2025
+Mark-E,Grundpreis,"149,95 €/Jahr",01.02.2025
+Energie und Wasser Potsdam,Arbeitspreis,"37,39 ct/kWh",01.01.2025
+Energie und Wasser Potsdam,Grundpreis,"92,96 €/Jahr",01.01.2025
+SaarLorLux,Arbeitspreis,"34,83 ct/kWh",01.02.2025
+SaarLorLux,Grundpreis,"151,06 €/Jahr",01.02.2025
+Stadtwerke Hamm,Arbeitspreis,"35,16 ct/kWh",01.04.2024
+Stadtwerke Hamm,Grundpreis,"166,01 €/Jahr",01.04.2024
+Energieversorgung Leverkusen,Arbeitspreis,"36,87 ct/kWh",01.01.2025
+Energieversorgung Leverkusen,Grundpreis,"217,76 €/Jahr",01.01.2025
+LSW Energie (Wolfsburg),Arbeitspreis,"30,00 ct/kWh",01.01.2025
+LSW Energie (Wolfsburg),Grundpreis,"101,03 €/Jahr",01.01.2025
+WEVG Salzgitter,Arbeitspreis,"36,99 ct/kWh",01.04.2025
+WEVG Salzgitter,Grundpreis,"171,36 €/Jahr",01.04.2025
+SVO Vertrieb,Arbeitspreis,"36,53 ct/kWh",01.01.2025
+SVO Vertrieb,Grundpreis,"142,81 €/Jahr",01.01.2025
+Stadtwerke Rotenburg (Wümme),Arbeitspreis,"34,43 ct/kWh",01.01.2024
+Stadtwerke Rotenburg (Wümme),Grundpreis,"99,00 €/Jahr",01.01.2024
+Stadtwerke Bad Harzburg,Arbeitspreis,"36,30 ct/kWh",01.01.2025
+Stadtwerke Bad Harzburg,Grundpreis,"121,38 €/Jahr",01.01.2025
+Energieversorgung Sehnde,Arbeitspreis,"37,49 ct/kWh",01.01.2025
+Energieversorgung Sehnde,Grundpreis,"164,22 €/Jahr",01.01.2025
+Stadtwerke Zeven,Arbeitspreis,"32,87 ct/kWh",01.01.2025
+Stadtwerke Zeven,Grundpreis,"100,02 €/Jahr",01.01.2025
+Energieversorgung,Arbeitspreis,"35,07 ct/kWh",01.03.2024
+Energieversorgung,Grundpreis,"111,59 €/Jahr",01.03.2024
+Stadtwerke Munster-Bispingen,Arbeitspreis,"41,96 ct/kWh",01.06.2025
+Stadtwerke Munster-Bispingen,Grundpreis,"57,12 €/Jahr",01.06.2025
+E.ON Rinteln,Arbeitspreis,"38,07 ct/kWh",04.02.2025
+E.ON Rinteln,Grundpreis,"149,70 €/Jahr",04.02.2025
+Stadtwerke Peine,Arbeitspreis,"35,81 ct/kWh",01.01.2025
+Stadtwerke Peine,Grundpreis,"0,00 €/Jahr",01.01.2025
+Harz Energie,Arbeitspreis,"35,46 ct/kWh",01.01.2025
+Harz Energie,Grundpreis,"137,94 €/Jahr",01.01.2025
+Energieversorgung Dahlenburg-Bleckede,Arbeitspreis,"33,17 ct/kWh",01.01.2025
+Energieversorgung Dahlenburg-Bleckede,Grundpreis,"111,00 €/Jahr",01.01.2025
+E.ON Hann Münden,Arbeitspreis,"34,21 ct/kWh",04.02.2025
+E.ON Hann Münden,Grundpreis,"162,17 €/Jahr",04.02.2025
+Stadtwerke Garbsen,Arbeitspreis,"33,60 ct/kWh",01.01.2025
+Stadtwerke Garbsen,Grundpreis,"113,17 €/Jahr",01.01.2025
+Stadtwerke Schüttorf - Emsbüren,Arbeitspreis,"35,35 ct/kWh",01.01.2025
+Stadtwerke Schüttorf - Emsbüren,Grundpreis,"152,32 €/Jahr",01.01.2025
+E.ON Duderstadt,Arbeitspreis,"34,21 ct/kWh",04.02.2025
+E.ON Duderstadt,Grundpreis,"162,17 €/Jahr",04.02.2025
+Teutoburger Energie Netzwerk,Arbeitspreis,"38,40 ct/kWh",01.01.2025
+Teutoburger Energie Netzwerk,Grundpreis,"159,46 €/Jahr",01.01.2025
+Energiegesoffenschaft für Wittmund,Arbeitspreis,"29,94 ct/kWh",01.01.2025
+Energiegesoffenschaft für Wittmund,Grundpreis,"199,92 €/Jahr",01.01.2025
+EVB Huntetal,Arbeitspreis,"39,29 ct/kWh",01.01.2025
+EVB Huntetal,Grundpreis,"136,01 €/Jahr",01.01.2025
+Stadtwerke Böhmetal,Arbeitspreis,"34,18 ct/kWh",01.01.2025
+Stadtwerke Böhmetal,Grundpreis,"121,38 €/Jahr",01.01.2025
+Stadtwerke Bramsche,Arbeitspreis,"32,61 ct/kWh",01.01.2025
+Stadtwerke Bramsche,Grundpreis,"214,20 €/Jahr",01.01.2025
+Stadtwerke Soltau,Arbeitspreis,"32,76 ct/kWh",01.01.2025
+Stadtwerke Soltau,Grundpreis,"81,80 €/Jahr",01.01.2025
+Stadtwerke Verden,Arbeitspreis,"36,96 ct/kWh",01.01.2025
+Stadtwerke Verden,Grundpreis,"51,29 €/Jahr",01.01.2025
+Nordseeheilbad Borkum,Arbeitspreis,"31,87 ct/kWh",01.01.2025
+Nordseeheilbad Borkum,Grundpreis,"90,00 €/Jahr",01.01.2025
+Stadtwerke Burgdorf,Arbeitspreis,"33,32 ct/kWh",01.01.2025
+Stadtwerke Burgdorf,Grundpreis,"94,80 €/Jahr",01.01.2025
+Stadtwerke Schaumburg-Lippe,Arbeitspreis,"34,53 ct/kWh",01.03.2024
+Stadtwerke Schaumburg-Lippe,Grundpreis,"182,45 €/Jahr",01.03.2024
+Gemeindewerke Bovenden,Arbeitspreis,"34,64 ct/kWh",01.01.2025
+Gemeindewerke Bovenden,Grundpreis,"142,81 €/Jahr",01.01.2025
+Energiewerke Isernhagen,Arbeitspreis,"36,60 ct/kWh",01.01.2025
+Energiewerke Isernhagen,Grundpreis,"142,01 €/Jahr",01.01.2025
+Stadtwerke Einbeck,Arbeitspreis,"38,58 ct/kWh",01.01.2025
+Stadtwerke Einbeck,Grundpreis,"154,28 €/Jahr",01.01.2025
+Stadtwerke Lüdenscheid,Arbeitspreis,"39,90 ct/kWh",01.02.2025
+Stadtwerke Lüdenscheid,Grundpreis,"149,95 €/Jahr",01.02.2025
+Stadtwerke Lippstadt,Arbeitspreis,"32,44 ct/kWh",01.01.2025
+Stadtwerke Lippstadt,Grundpreis,"157,09 €/Jahr",01.01.2025
+Stadtwerke Strom Plauen,Arbeitspreis,"34,71 ct/kWh",01.01.2025
+Stadtwerke Strom Plauen,Grundpreis,"115,24 €/Jahr",01.01.2025
+Elektrizitätswerk Mittelbaden,Arbeitspreis,"39,79 ct/kWh",01.01.2025
+Elektrizitätswerk Mittelbaden,Grundpreis,"174,32 €/Jahr",01.01.2025
+Stadtwerke Sindelfingen,Arbeitspreis,"30,79 ct/kWh",01.01.2025
+Stadtwerke Sindelfingen,Grundpreis,"176,24 €/Jahr",01.01.2025
+Hertener Stadtwerke,Arbeitspreis,"37,85 ct/kWh",01.10.2023
+Hertener Stadtwerke,Grundpreis,"129,60 €/Jahr",01.10.2023
+Energieversorung Filstal,Arbeitspreis,"33,80 ct/kWh",01.01.2025
+Energieversorung Filstal,Grundpreis,"154,70 €/Jahr",01.01.2025
+Stadtwerke Waiblingen,Arbeitspreis,"39,23 ct/kWh",01.01.2024
+Stadtwerke Waiblingen,Grundpreis,"178,50 €/Jahr",01.01.2024
+Energie-Rhein-Sieg,Arbeitspreis,"26,93 ct/kWh",01.01.2025
+Energie-Rhein-Sieg,Grundpreis,"216,58 €/Jahr",01.01.2025
+Stadtwerke Görlitz,Arbeitspreis,"35,94 ct/kWh",01.01.2025
+Stadtwerke Görlitz,Grundpreis,"143,99 €/Jahr",01.01.2025
+Stadtwerke Speyer,Arbeitspreis,"37,21 ct/kWh",01.01.2025
+Stadtwerke Speyer,Grundpreis,"149,84 €/Jahr",01.01.2025
+Stadtwerke Rastatt,Arbeitspreis,"39,81 ct/kWh",01.01.2025
+Stadtwerke Rastatt,Grundpreis,"142,51 €/Jahr",01.01.2025
+Stadtwerke Willich,Arbeitspreis,"37,46 ct/kWh",01.03.2025
+Stadtwerke Willich,Grundpreis,"200,02 €/Jahr",01.03.2025
+NEW,Arbeitspreis,"42,07 ct/kWh",01.01.2024
+NEW,Grundpreis,"132,59 €/Jahr",01.01.2024
+Stadtwerke Husum,Arbeitspreis,"40,78 ct/kWh",01.01.2025
+Stadtwerke Husum,Grundpreis,"145,18 €/Jahr",01.01.2025
+Stadtwerke Döbeln,Arbeitspreis,"34,19 ct/kWh",01.01.2025
+Stadtwerke Döbeln,Grundpreis,"85,68 €/Jahr",01.01.2025
+Stadtwerke Senftenberg,Arbeitspreis,"35,28 ct/kWh",01.01.2025
+Stadtwerke Senftenberg,Grundpreis,"134,65 €/Jahr",01.01.2025
+BIGGE Energie,Arbeitspreis,"33,78 ct/kWh",01.02.2025
+BIGGE Energie,Grundpreis,"208,25 €/Jahr",01.02.2025
+Kraft und Wasserwerke Kitzingen,Arbeitspreis,"38,91 ct/kWh",01.01.2025
+Kraft und Wasserwerke Kitzingen,Grundpreis,"155,70 €/Jahr",01.01.2025
+ENTEGA PLUS,Arbeitspreis,"38,98 ct/kWh",01.01.2024
+ENTEGA PLUS,Grundpreis,"180,00 €/Jahr",01.01.2024
+BeSte Stadtwerke,Arbeitspreis,"39,68 ct/kWh",01.01.2025
+BeSte Stadtwerke,Grundpreis,"213,70 €/Jahr",01.01.2025
+Stadtwerke Gelnhausen,Arbeitspreis,"38,35 ct/kWh",01.01.2025
+Stadtwerke Gelnhausen,Grundpreis,"196,35 €/Jahr",01.01.2025
+Energie Waldeck-Frankenberg,Arbeitspreis,"38,80 ct/kWh",01.01.2024
+Energie Waldeck-Frankenberg,Grundpreis,"104,82 €/Jahr",01.01.2024
+Energieversorgung Apolda,Arbeitspreis,"48,49 ct/kWh",01.01.2025
+Energieversorgung Apolda,Grundpreis,"149,37 €/Jahr",01.01.2025
+Stadtwerke Lutherstadt Eisleben,Arbeitspreis,"35,90 ct/kWh",01.01.2025
+Stadtwerke Lutherstadt Eisleben,Grundpreis,"163,48 €/Jahr",01.01.2025
+Oberhessische Versorgungsbetriebe,Arbeitspreis,"39,96 ct/kWh",01.01.2025
+Oberhessische Versorgungsbetriebe,Grundpreis,"167,93 €/Jahr",01.01.2025
+Allgäuer Kraftwerke,Arbeitspreis,"38,90 ct/kWh",01.01.2025
+Allgäuer Kraftwerke,Grundpreis,"220,00 €/Jahr",01.01.2025
+Stadtwerke Rees,Arbeitspreis,"50,76 ct/kWh",01.01.2025
+Stadtwerke Rees,Grundpreis,"198,98 €/Jahr",01.01.2025
+BELKAW,Arbeitspreis,"33,19 ct/kWh",01.01.2025
+BELKAW,Grundpreis,"277,42 €/Jahr",01.01.2025
+Stadtwerke Glauchau,Arbeitspreis,"36,41 ct/kWh",01.01.2025
+Stadtwerke Glauchau,Grundpreis,"168,36 €/Jahr",01.01.2025
+Stadtwerke Radevormwald,Arbeitspreis,"35,33 ct/kWh",01.01.2025
+Stadtwerke Radevormwald,Grundpreis,"179,69 €/Jahr",01.01.2025
+Stadtwerke Hockenheim,Arbeitspreis,"37,21 ct/kWh",01.01.2025
+Stadtwerke Hockenheim,Grundpreis,"191,99 €/Jahr",01.01.2025
+Stadtwerke Germersheim,Arbeitspreis,"35,40 ct/kWh",01.01.2025
+Stadtwerke Germersheim,Grundpreis,"161,38 €/Jahr",01.01.2025
+Stadtwerke Dingolfing,Arbeitspreis,"34,99 ct/kWh",01.01.2025
+Stadtwerke Dingolfing,Grundpreis,"150,00 €/Jahr",01.01.2025
+Stadtwerke Lindau,Arbeitspreis,"40,69 ct/kWh",01.01.2025
+Stadtwerke Lindau,Grundpreis,"105,48 €/Jahr",01.01.2025
