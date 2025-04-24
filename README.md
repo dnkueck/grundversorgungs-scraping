@@ -43,6 +43,23 @@ Falls der erste Link keinen Erfolg liefert (z. B. alle Preise sind Unbekannt),
 
 ---
 
+
+## Verarbeitung in Batches
+
+Um Captchas und Sperren zu vermeiden, wird die Verarbeitung in **Blöcken von z. B. 90 Anbietern** empfohlen:
+
+```bash
+python strom_main.py 0 90
+python strom_main.py 90 180
+python strom_main.py 180 270`
+
+Jeder Lauf erzeugt eine eigene Datei, z. B. strompreise_20240423_142512.csv.
+Zusammenführen aller Teil-Ergebnisse (Duplikate werden entfernt):  strom/python merge_batches.py
+
+Das Skript durchsucht strom/strompreise_*.csv und erstellt eine zusammengeführte Datei strom/strompreise.csv
+```
+
+
 ## Verzeichnis `utils/`
 
 Modularer Aufbau zur Aufteilung der Extraktionslogik:

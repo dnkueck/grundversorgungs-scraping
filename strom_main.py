@@ -1,6 +1,7 @@
-import os
 import time
 import re
+import os
+import sys
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
@@ -14,10 +15,20 @@ from utils.pdf_handler import find_and_process_pdf
 from utils.html_gpt_analyzer import extract_prices_from_html_groq
 from utils.tarifrechner_scraper import extract_prices_from_tarifrechner
 from dotenv import load_dotenv
+from datetime import datetime
+
+
+# Argumente für Batching
+start = int(sys.argv[1]) if len(sys.argv) > 1 else 0
+end = int(sys.argv[2]) if len(sys.argv) > 2 else start + 90
+
+# Dynamischer Output
+timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+OUTPUT_PATH = f"strom/strompreise_{timestamp}.csv"
 
 load_dotenv()
 CSV_PATH = "strom/grundversorger.csv"
-OUTPUT_PATH = "strom/strompreise.csv"
+
 
 
 # CSV laden
@@ -28,7 +39,7 @@ df["Grundversorgungsseite"] = (
     .str.replace(r"[✅❌]", "", regex=True)
     .str.strip()
 )
-anbieter_liste = df.to_dict(orient="records")
+anbieter_liste = df.iloc[start:end].to_dict(orient="records")
 
 # Browser vorbereiten
 options = webdriver.ChromeOptions()
